@@ -7,7 +7,7 @@ In this project I have predicted that the diagnosis of Breast cancer is Malignan
 * seaborn
 * matplotlib.pyplot
 
-## Reason/inpiration behind this project:
+## Reason/inspiration behind this project:
 I wanted to implement all classification algorithms that i have learned in this dataset.
 
 ## Datasets:
